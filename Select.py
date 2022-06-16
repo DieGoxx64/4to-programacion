@@ -1,0 +1,3 @@
+SELECT *
+
+def select("")
